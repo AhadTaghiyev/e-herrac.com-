@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'home' => 'Əsas səhifə',
+    'see_all_services' => 'Bütün xidmətlər',
+    'read_more' => 'ƏTRAFLI',
+    'footer_contact_button' => 'Bizə yazın',
+    'copyright_text' => '&copy; Azmicon MMC 2012-:year. Bütün hüquqlar qorunur.',
+    'address' => 'ÜNVAN',
+    'email' => 'E-POÇT',
+    'phone' => 'TELEFON',
+    'working_hours' => 'İŞ SAATLARI',
+    'client' => 'MÜŞTƏRİ',
+    'location' => 'ƏRAZİ',
+    'size' => 'HƏCM',
+    'type' => 'NÖV',
+    'months' => ['01' => 'Yanvar', '02' => 'Fevral', '03' => 'Mart', '04' => 'Aprel', '05' => 'May', '06' => 'İyun', '07' => 'İyul', '08' => 'Avqust', '09' => 'Sentyabr', '10' => 'Oktyabr', '11' => 'Noyabr', '12' => 'Dekabr'],
+    'form_first_name' => 'Ad',
+    'form_last_name' => 'Soyad',
+    'form_phone' => 'Telefon',
+    'form_email' => 'E-poçt',
+    'form_subject' => 'Mövzu',
+    'form_message' => 'Mətn',
+    'form_submit_button' => 'Göndər',
+    'contact_form_subtitle' => 'Bizə mesaj göndərin',
+];
